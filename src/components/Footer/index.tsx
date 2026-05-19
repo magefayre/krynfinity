@@ -6,7 +6,7 @@ import {
   Navigation,
   SmartLink
 } from '@newhighsco/chipset'
-import React from 'react'
+import React, { type FC } from 'react'
 
 import config from '~config'
 import footer from '~data/footer.json'
@@ -14,9 +14,9 @@ import footer from '~data/footer.json'
 import styles from './Footer.module.scss'
 
 const { name, socialLinks } = config
-const iconLinks = { GitHub: { icon: 'simple-icons:github', verb: 'View' } }
+const iconLinks = { Instagram: { icon: 'simple-icons:instagram' } }
 
-const Footer = () => (
+const Footer: FC = () => (
   <FooterContainer gutter theme={{ root: styles.root }}>
     <Grid valign="middle">
       <Grid.Item sizes={['one-half']}>
