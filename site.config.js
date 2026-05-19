@@ -11,7 +11,7 @@ const config = {
   description: 'TODO:',
   logo: { bitmap: logoBitmap.src, vector: logoVector },
   openGraphImage: openGraphImage.src,
-  themeColor: colors.black,
+  themeColor: colors.purple,
   socialLinks: { Instagram: 'https://instagram.com/krynfinity' }
 }
 

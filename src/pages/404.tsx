@@ -1,4 +1,3 @@
-import { Prose } from '@newhighsco/chipset'
 import { type NextPage } from 'next'
 import React from 'react'
 
@@ -11,13 +10,6 @@ const meta = {
   nofollow: true
 }
 
-const NotFoundPage: NextPage = () => (
-  <PageContainer meta={meta}>
-    <Prose>
-      <h1>{meta.title}</h1>
-      <p>We’re sorry but we couldn’t find the page you were looking for</p>
-    </Prose>
-  </PageContainer>
-)
+const NotFoundPage: NextPage = () => <PageContainer meta={meta} />
 
 export default NotFoundPage

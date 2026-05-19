@@ -1,4 +1,3 @@
-import { Prose } from '@newhighsco/chipset'
 import type { NextPage } from 'next'
 import { LogoJsonLd, SocialProfileJsonLd } from 'next-seo'
 import React from 'react'
@@ -19,9 +18,6 @@ const HomePage: NextPage = () => (
       sameAs={Object.values(socialLinks)}
     />
     {logo?.bitmap && <LogoJsonLd url={url} logo={urlJoin(url, logo.bitmap)} />}
-    <Prose>
-      <p>Get a theme-able Next.js site up and running quickly</p>
-    </Prose>
   </PageContainer>
 )
 
