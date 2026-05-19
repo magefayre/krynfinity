@@ -3,7 +3,7 @@ import classNames from 'classnames'
 import React, { type FC } from 'react'
 
 import config from '~config'
-import { ReactComponent as LogoSvg } from '~images/logo.svg'
+import { ReactComponent as LogoSvg } from '~images/logo-lockup.svg'
 
 import styles from './LogoLockup.module.scss'
 
