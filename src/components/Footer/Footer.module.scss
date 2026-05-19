@@ -1,25 +1,15 @@
-@use 'sass:color';
-@use '~styles/colors.module';
 @use '~styles/functions';
 
 .root {
-  border-top: 1px solid color.adjust(colors.$black, $lightness: 75%);
+  text-align: right;
 }
 
 .link {
-  &:hover,
-  &:active,
-  &:focus {
-    text-decoration: underline;
-  }
+  padding-inline-start: functions.spacing(1);
 }
 
 .icon {
   fill: currentColor;
-  width: functions.spacing(4);
-}
-
-.credits {
-  font-size: smaller;
-  margin-top: functions.spacing(2);
+  height: functions.spacing(4);
+  width: auto;
 }

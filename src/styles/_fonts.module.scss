@@ -1,3 +1,6 @@
+// Font families
+$inter: 'Inter';
+
 // Font stacks
 /* stylelint-disable value-keyword-case */
 $stack-system:
@@ -6,8 +9,8 @@ $stack-system:
 /* stylelint-enable value-keyword-case */
 
 // Font families
-$body: $stack-system;
-$heading: $stack-system;
+$body: $inter, $stack-system;
+$heading: $inter, $stack-system;
 
 :export {
   body: $body;

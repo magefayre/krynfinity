@@ -1,7 +1,7 @@
 import logoBitmap from '~images/logo.png'
 import logoVector from '~images/logo.svg'
 import openGraphImage from '~images/sharing.jpg'
-import colors from '~styles/colors.module'
+import colors from '~styles/colors.module.scss'
 
 const config = {
   url: process.env.NEXT_PUBLIC_SITE_URL,
@@ -11,7 +11,7 @@ const config = {
   description: 'TODO:',
   logo: { bitmap: logoBitmap.src, vector: logoVector },
   openGraphImage: openGraphImage.src,
-  themeColor: colors.black,
+  themeColor: colors.purple,
   socialLinks: { Instagram: 'https://instagram.com/krynfinity' }
 }
 

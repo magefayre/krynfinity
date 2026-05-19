@@ -2,5 +2,12 @@
 
 .icon {
   fill: currentColor;
+  height: auto;
   width: functions.spacing(4);
+
+  text {
+    dominant-baseline: middle;
+    text-anchor: middle;
+    text-transform: uppercase;
+  }
 }
