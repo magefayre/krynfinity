@@ -1,14 +1,14 @@
 @use '~styles/colors.module';
-@use '~styles/functions';
+@use '~styles/fonts.module';
 
 .root {
   display: inline-flex;
-  font-size: calc(50px + 2vw);
+  font-size: fonts.$responsive;
   line-height: 0.8;
 
   sup {
     color: colors.$gold;
-    font-size: 1.1em;
+    font-size: 1.135em;
     font-weight: 750;
     top: 0.2em;
   }
