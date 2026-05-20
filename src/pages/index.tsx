@@ -18,6 +18,9 @@ const HomePage: NextPage = () => (
       sameAs={Object.values(socialLinks)}
     />
     {logo?.bitmap && <LogoJsonLd url={url} logo={urlJoin(url, logo.bitmap)} />}
+    Putting
+    <br /> the <em>you</em>
+    <br /> in <em>umavi</em>
   </PageContainer>
 )
 

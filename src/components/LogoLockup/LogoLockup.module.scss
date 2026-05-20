@@ -1,13 +1,15 @@
+@use '~styles/colors.module';
 @use '~styles/functions';
 
-.icon {
-  fill: currentColor;
-  height: auto;
-  width: functions.spacing(40);
+.root {
+  display: inline-flex;
+  font-size: 100px;
+  line-height: 0.8;
 
-  text {
-    dominant-baseline: middle;
-    text-anchor: middle;
-    text-transform: uppercase;
+  sup {
+    color: colors.$gold;
+    font-size: 1.1em;
+    font-weight: 750;
+    top: 0.2em;
   }
 }

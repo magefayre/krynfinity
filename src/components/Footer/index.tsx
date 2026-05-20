@@ -23,7 +23,7 @@ const links = {
 }
 
 const Footer: FC = () => (
-  <FooterContainer gutter theme={{ root: styles.root }}>
+  <FooterContainer gutter>
     <Navigation
       inline
       links={Object.values(links)}
@@ -45,7 +45,7 @@ const Footer: FC = () => (
           </SmartLink>
         )
       }}
-      theme={{ link: styles.link }}
+      theme={{ list: styles.list }}
     />
   </FooterContainer>
 )

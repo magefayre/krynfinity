@@ -1,15 +1,14 @@
+@use '~styles/colors.module';
 @use '~styles/functions';
 
-.root {
-  text-align: right;
-}
-
-.link {
-  padding-inline-start: functions.spacing(1);
+.list {
+  color: colors.$lavender;
+  display: flex;
+  gap: functions.spacing(2);
+  justify-content: space-between;
 }
 
 .icon {
-  fill: currentColor;
   height: functions.spacing(4);
   width: auto;
 }

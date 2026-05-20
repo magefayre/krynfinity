@@ -5,10 +5,11 @@ import colors from '~styles/colors.module.scss'
 
 const config = {
   url: process.env.NEXT_PUBLIC_SITE_URL,
-  name: 'Krynfinity',
-  shortName: null,
-  title: 'Krynfinity',
-  description: 'TODO:',
+  name: 'KRYN',
+  shortName: '∞',
+  titleTemplate: name => `%s // ${name}`,
+  title: 'KRYN // Putting the you in umavi',
+  description: 'Putting the you in umavi',
   logo: { bitmap: logoBitmap.src, vector: logoVector },
   openGraphImage: openGraphImage.src,
   themeColor: colors.purple,

@@ -3,10 +3,8 @@ import React, { type FC } from 'react'
 
 import LogoLockup from '~components/LogoLockup'
 
-import styles from './Header.module.scss'
-
 const Header: FC = () => (
-  <HeaderContainer gutter theme={{ root: styles.root }}>
+  <HeaderContainer gutter>
     <SmartLink href="/">
       <LogoLockup />
     </SmartLink>

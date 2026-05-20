@@ -1,4 +1,4 @@
-# Krynfinity
+# KRYN∞
 
 https://krynfinity.magefayre.com
 

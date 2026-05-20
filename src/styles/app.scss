@@ -7,11 +7,12 @@
 body {
   background-color: colors.$purple;
   color: colors.$white;
-  font-size: 18px;
-  line-height: 1.5;
   font-family: fonts.$body;
-  font-weight: normal;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 1;
   min-width: breakpoints.$mobile;
+  text-transform: uppercase;
 }
 
 a {
@@ -21,4 +22,9 @@ a {
   &:focus {
     outline: none;
   }
+}
+
+em {
+  color: colors.$lavender;
+  font-style: normal;
 }
