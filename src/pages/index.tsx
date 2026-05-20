@@ -12,7 +12,7 @@ const meta = { canonical: urlJoin(url, '/'), customTitle: true, title }
 const messages = [
   <>
     Putting
-    <br /> the <em>you</em>
+    <br /> the you
     <br /> in <em>Umavi</em>.
   </>,
   <>
@@ -23,7 +23,7 @@ const messages = [
     No fuss<em>.</em>
   </>,
   <>
-    Dunamis
+    <em>Dunamis</em>
     <br />
     Out<em>.</em>
   </>,
