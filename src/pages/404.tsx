@@ -1,3 +1,4 @@
+import { Prose, SmartLink } from '@newhighsco/chipset'
 import { type NextPage } from 'next'
 import React from 'react'
 
@@ -10,6 +11,19 @@ const meta = {
   nofollow: true
 }
 
-const NotFoundPage: NextPage = () => <PageContainer meta={meta} />
+const NotFoundPage: NextPage = () => (
+  <PageContainer meta={meta}>
+    <Prose>
+      The Light
+      <br />
+      of the <em>Luxon</em>
+      <br />
+      shines
+      <br />
+      <del>not</del> <SmartLink href="/">here</SmartLink>
+      <em>.</em>
+    </Prose>
+  </PageContainer>
+)
 
 export default NotFoundPage

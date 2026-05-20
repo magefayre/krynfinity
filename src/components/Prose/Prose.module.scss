@@ -1,0 +1,37 @@
+@use '~styles/colors.module';
+@use '~styles/fonts.module';
+
+.root {
+  font-size: fonts.$responsive;
+  text-transform: uppercase;
+
+  a {
+    &:hover,
+    &:focus {
+      color: colors.$gold;
+    }
+  }
+
+  del {
+    color: colors.$lavender;
+    text-decoration-color: colors.$violet;
+  }
+
+  em {
+    color: colors.$lavender;
+    font-style: normal;
+  }
+
+  small {
+    font-size: 1.666em;
+    font-weight: 650;
+    line-height: 0;
+    position: relative;
+    top: 0.1em;
+  }
+
+  strong {
+    text-decoration: underline 0.125em colors.$lavender;
+    text-underline-offset: 0.125em;
+  }
+}

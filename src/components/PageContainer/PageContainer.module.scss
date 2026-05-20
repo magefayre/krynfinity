@@ -1,12 +1,9 @@
-@use '~styles/fonts.module';
-
 .root {
   order: -1;
 }
 
 .content {
   animation: fade-in ease-in 2s;
-  font-size: fonts.$responsive;
 }
 
 @keyframes fade-in {

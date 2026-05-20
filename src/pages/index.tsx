@@ -1,4 +1,4 @@
-import { VisuallyHidden } from '@newhighsco/chipset'
+import { Prose, VisuallyHidden } from '@newhighsco/chipset'
 import type { NextPage } from 'next'
 import { LogoJsonLd, SocialProfileJsonLd } from 'next-seo'
 import React, { useEffect, useState } from 'react'
@@ -16,16 +16,14 @@ const messages = [
     <br /> in <em>Umavi</em>.
   </>,
   <>
-    <em>
-      <del>Typhros</del>
-    </em>
+    <del>Typhros</del>
     <br />
     No fuss<em>.</em>
   </>,
   <>
     <em>Dunamis</em>
     <br />
-    Out<em>.</em>
+    out<em>.</em>
   </>,
   <>
     <span aria-hidden>
@@ -61,7 +59,7 @@ const HomePage: NextPage = () => {
       {logo?.bitmap && (
         <LogoJsonLd url={url} logo={urlJoin(url, logo.bitmap)} />
       )}
-      {messages[index]}
+      <Prose>{messages[index]}</Prose>
     </PageContainer>
   )
 }
