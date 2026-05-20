@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12in" height="14in" viewBox="0 0 1152 1344" xmlns:bx="https://boxy-svg.com">
+  <g id="object-0">
+    <text style="font-family: Inter; font-size: 220px; font-weight: 900; white-space: pre;" x="39.195" y="532.016">OUT.</text>
+    <path style="text-wrap-mode: nowrap;"/>
+    <path style="text-wrap-mode: nowrap;"/>
+    <path style="text-wrap-mode: nowrap;"/>
+    <path style="text-wrap-mode: nowrap;"/>
+    <text style="font-family: Inter; font-size: 220px; font-weight: 900; white-space: pre;" transform="matrix(1, 0, 0, 1, -171.86824, 98.626694)"><tspan x="218.827" y="213.727">DUNAMIS</tspan><tspan x="218.827" dy="1em">​</tspan><tspan x="218.827" dy="1em">​</tspan><tspan x="218.827" dy="1em">​</tspan><tspan x="218.827" dy="1em">​</tspan><tspan>KRYN</tspan><tspan style="font-size: 250px; font-weight: 750; baseline-shift: 12%;">∞</tspan></text>
+  </g>
+  <defs>
+    <style bx:fonts="Inter">@import url(https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C100..900%3B1%2C100..900&amp;display=swap);</style>
+    <bx:export>
+      <bx:file format="png" href="#object-0"/>
+    </bx:export>
+  </defs>
+</svg>
