@@ -24,7 +24,24 @@ a {
   }
 }
 
+del {
+  text-decoration-color: colors.$violet;
+}
+
 em {
   color: colors.$lavender;
   font-style: normal;
+}
+
+small {
+  font-size: 1.666em;
+  font-weight: 650;
+  line-height: 0;
+  position: relative;
+  top: 0.1em;
+}
+
+strong {
+  text-decoration: underline 0.125em colors.$lavender;
+  text-underline-offset: 0.125em;
 }

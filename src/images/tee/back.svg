@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12in" height="14in" viewBox="0 0 1152 1344" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="png" href="#object-0"/>
+    </bx:export>
+    <style bx:fonts="Inter">@import url(https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C100..900%3B1%2C100..900&amp;display=swap);</style>
+  </defs>
+  <g id="object-0">
+    <text style="font-family: Inter; font-size: 150px; font-weight: 900; white-space: pre; text-decoration: underline;" y="932.469" x="30.325">TODAY</text>
+    <text style="font-family: Inter; font-size: 150px; font-weight: 900; white-space: pre;" transform="matrix(1, 0, 0, 1, -1338.248047, 276.251709)"><tspan x="1352.76" y="355.821" dy="1em">​</tspan><tspan>CONSECUTION</tspan></text>
+    <path style="text-wrap-mode: nowrap;"/>
+    <path style="text-wrap-mode: nowrap;"/>
+    <path style="text-wrap-mode: nowrap;"/>
+    <path style="text-wrap-mode: nowrap;"/>
+    <text style="font-family: Inter; font-size: 150px; font-weight: 900; white-space: pre;" transform="matrix(1, 0, 0, 1, -121.544495, 0)"><tspan x="143.513" y="482.378">B</tspan><tspan style="font-size: 250px; font-weight: 650; baseline-shift: -9%;">∞</tspan><tspan>K</tspan><tspan x="143.513" dy="1em">​</tspan><tspan>YOUR</tspan><tspan x="143.513" dy="1em">​</tspan><tspan x="143.513" dy="1em">​</tspan></text>
+  </g>
+</svg>
