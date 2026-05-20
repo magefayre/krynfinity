@@ -1,5 +1,6 @@
 import {
   Backdrop,
+  Image,
   PageContainer as ThemedPageContainer
 } from '@newhighsco/chipset'
 import { Meta } from '@newhighsco/press-start'
@@ -13,6 +14,7 @@ import React, {
 
 import Footer from '~components/Footer'
 import Header from '~components/Header'
+import backdropSrc from '~images/backdrop.jpg'
 
 import styles from './PageContainer.module.scss'
 
@@ -34,7 +36,14 @@ const PageContainer: FC<Props> = ({ meta, children }) => {
       footer={
         <>
           <Footer />
-          {loaded && <Backdrop />}
+          <Backdrop>
+            <Image src={backdropSrc} />
+            {loaded && (
+              <video preload="none" muted autoPlay loop playsInline>
+                <source src="/videos/backdrop.mp4" type="video/mp4" />
+              </video>
+            )}
+          </Backdrop>
         </>
       }
       gutter

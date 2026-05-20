@@ -3,7 +3,7 @@
 
 .root {
   display: inline-flex;
-  font-size: 100px;
+  font-size: calc(50px + 2vw);
   line-height: 0.8;
 
   sup {
