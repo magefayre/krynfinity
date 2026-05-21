@@ -33,7 +33,7 @@
     "build": "next build --webpack",
     "postbuild": "next-sitemap",
     "serve": "next start",
-    "pretest": "tsc --noEmit",
+    "pretest": "next typegen && tsc --noEmit",
     "test": "yarn lint",
     "lint": "concurrently 'yarn:lint:*'",
     "lint:js": "eslint --cache .",
