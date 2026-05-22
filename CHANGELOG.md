@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/magefayre/krynfinity/compare/v1.0.0...v1.0.1) (2026-05-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency sass to v1.100.0 ([#17](https://github.com/magefayre/krynfinity/issues/17)) ([2f88e51](https://github.com/magefayre/krynfinity/commit/2f88e51d6f3654b19299964c4cd4bf523f4fd63e))
+
 # 1.0.0 (2026-05-21)
 
 
