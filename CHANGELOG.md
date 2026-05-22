@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/magefayre/krynfinity/compare/v1.0.1...v1.1.0) (2026-05-22)
+
+
+### Features
+
+* **deps:** remove `next-videos` ([0cfa3a1](https://github.com/magefayre/krynfinity/commit/0cfa3a107196401757993df54d9b2761f222a648))
+
 ## [1.0.1](https://github.com/magefayre/krynfinity/compare/v1.0.0...v1.0.1) (2026-05-22)
 
 
