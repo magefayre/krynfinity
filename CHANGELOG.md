@@ -1,3 +1,9 @@
+## [1.1.3](https://github.com/magefayre/krynfinity/compare/v1.1.2...v1.1.3) (2026-06-01)
+
+### Bug Fixes
+
+* **deps:** update dependency next to v16.2.7 ([#38](https://github.com/magefayre/krynfinity/issues/38)) ([848a0d9](https://github.com/magefayre/krynfinity/commit/848a0d923e3207fb305c9034d2027f9b821b7446))
+
 ## [1.1.2](https://github.com/magefayre/krynfinity/compare/v1.1.1...v1.1.2) (2026-05-24)
 
 
