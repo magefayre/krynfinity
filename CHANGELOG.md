@@ -1,3 +1,9 @@
+## [1.1.5](https://github.com/magefayre/krynfinity/compare/v1.1.4...v1.1.5) (2026-06-02)
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/next-plugin-svgr to v3.0.171 ([#42](https://github.com/magefayre/krynfinity/issues/42)) ([05920e4](https://github.com/magefayre/krynfinity/commit/05920e41aa1a35ac292edae56980046d0f8f7565))
+
 ## [1.1.4](https://github.com/magefayre/krynfinity/compare/v1.1.3...v1.1.4) (2026-06-02)
 
 ### Bug Fixes
