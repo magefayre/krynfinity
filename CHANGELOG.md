@@ -1,3 +1,9 @@
+## [1.1.6](https://github.com/magefayre/krynfinity/compare/v1.1.5...v1.1.6) (2026-06-02)
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/press-start to v2.6.44 ([#43](https://github.com/magefayre/krynfinity/issues/43)) ([d0e199f](https://github.com/magefayre/krynfinity/commit/d0e199fd65e2751f9dd13c8a1d9b0230b5663353))
+
 ## [1.1.5](https://github.com/magefayre/krynfinity/compare/v1.1.4...v1.1.5) (2026-06-02)
 
 ### Bug Fixes
