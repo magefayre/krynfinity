@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/magefayre/krynfinity/compare/v1.1.3...v1.1.4) (2026-06-02)
+
+### Bug Fixes
+
+* **deps:** update react monorepo ([#40](https://github.com/magefayre/krynfinity/issues/40)) ([18633b0](https://github.com/magefayre/krynfinity/commit/18633b01911bdc052ae6fc3912bc8b8471185962))
+
 ## [1.1.3](https://github.com/magefayre/krynfinity/compare/v1.1.2...v1.1.3) (2026-06-01)
 
 ### Bug Fixes
