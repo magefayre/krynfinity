@@ -1,3 +1,9 @@
+## [1.1.7](https://github.com/magefayre/krynfinity/compare/v1.1.6...v1.1.7) (2026-06-09)
+
+### Bug Fixes
+
+* **deps:** update nextjs monorepo to v16.2.8 ([#56](https://github.com/magefayre/krynfinity/issues/56)) ([7c7bef7](https://github.com/magefayre/krynfinity/commit/7c7bef71bcf0b5b3a8bb4969b1b995f18c138998))
+
 ## [1.1.6](https://github.com/magefayre/krynfinity/compare/v1.1.5...v1.1.6) (2026-06-02)
 
 ### Bug Fixes
