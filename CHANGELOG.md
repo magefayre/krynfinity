@@ -1,3 +1,9 @@
+## [1.1.10](https://github.com/magefayre/krynfinity/compare/v1.1.9...v1.1.10) (2026-06-10)
+
+### Bug Fixes
+
+* **deps:** update dependency @newhighsco/chipset to v7.1.0 ([#61](https://github.com/magefayre/krynfinity/issues/61)) ([164e6a9](https://github.com/magefayre/krynfinity/commit/164e6a93da225007597c5807e26fe3b45bb7b5c7))
+
 ## [1.1.9](https://github.com/magefayre/krynfinity/compare/v1.1.8...v1.1.9) (2026-06-10)
 
 ### Bug Fixes
