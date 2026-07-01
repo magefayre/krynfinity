@@ -2736,7 +2736,7 @@ __metadata:
     "@newhighsco/next-plugin-svgr": "npm:3.0.172"
     "@newhighsco/postcss-config": "npm:4.0.55"
     "@newhighsco/press-start": "npm:2.8.0"
-    "@newhighsco/prettier-config": "npm:2.3.6"
+    "@newhighsco/prettier-config": "npm:2.3.11"
     "@newhighsco/release-config": "npm:1.5.1"
     "@newhighsco/stylelint-config": "npm:4.0.45"
     "@newhighsco/svgr-config": "npm:1.0.0"
@@ -2904,12 +2904,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@newhighsco/prettier-config@npm:2.3.6":
-  version: 2.3.6
-  resolution: "@newhighsco/prettier-config@npm:2.3.6"
+"@newhighsco/prettier-config@npm:2.3.11":
+  version: 2.3.11
+  resolution: "@newhighsco/prettier-config@npm:2.3.11"
   peerDependencies:
-    prettier: 3.8.4
-  checksum: 10c0/0eb39f3d7e57710e114ec35f1b94eff599cad4877de8d2c2e57da301b424b87069f2a322a56535849e3f1cfc26588a973ea498411cdc82990334f1d576e0bb9e
+    prettier: 3.9.4
+  checksum: 10c0/2369c5f96b6672a2ef0255e3f61f17575fdca6bb4336ad9bdede57efd6157297d7c9ea2af0fbd6ededf0105791bd5523504696bd53d6def394487de0eaeeb765
   languageName: node
   linkType: hard
 
