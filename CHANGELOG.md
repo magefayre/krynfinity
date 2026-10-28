@@ -1,3 +1,5 @@
+## [1.2.55](https://github.com/magefayre/krynfinity/compare/v1.2.54...v1.2.55) (2026-10-28)
+
 ## [1.2.54](https://github.com/magefayre/krynfinity/compare/v1.2.53...v1.2.54) (2026-10-28)
 
 ## [1.2.53](https://github.com/magefayre/krynfinity/compare/v1.2.52...v1.2.53) (2026-10-28)
